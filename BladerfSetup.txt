@@ -1,0 +1,1 @@
+https://gitlab.eurecom.fr/oai/openairinterface5g/tree/develop/targets/ARCH/BLADERF
